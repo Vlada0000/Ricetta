@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    width: auto;
+
+}
+
+.ringraziamento {
+    background: linear-gradient(180deg, rgb(218, 113, 38) 0%, rgb(230, 224, 203) 10%);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.link {
+    color: red;
+    font-size: medium;
+    border-left: 1px solid orangered;
+    padding-left: 1em;
+
+
+}
+
+#ref {
+    display: block;
+}
+
+header {
+    text-align: center;
+    max-width: 100%;
+}
+
+.immagine {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+
+
+
+}
+
+.container {
+    width: 750px;
+    height: 500px;
+    box-shadow: 3px 3px 3px lightgray;
+
+
+
+
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+footer {
+    margin-left: 25%;
+    margin-right: 25%;
+
+
+}
+
+.titolo {
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.sottofoto {
+    text-align: center;
+    color: gray;
+}
+
+.ingredienti {
+    font-size: large;
+    border-bottom: 1px solid lightblue;
+    padding-bottom: 1em;
+    padding-top: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 500;
+}
+
+.method {
+    font-size: larger;
+    border-bottom: 1px solid lightblue;
+    padding-bottom: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 500;
+
+}
+
+.titoletti {
+    font-size: medium;
+    padding-top: 10px;
+}
+
+#focaccia {
+    padding-top: 10px;
+}
+
+li {
+    padding: 5px;
+}
